@@ -1,0 +1,5 @@
+{
+  "name": "Tiny Architecture",
+  "description": "Interactive exploration of CPU, GPU, TPU and NPU architectures with 3D models and performance comparisons.",
+  "requestFramePermissions": []
+}
